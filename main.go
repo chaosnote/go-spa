@@ -1,10 +1,10 @@
 package main
 
 import (
+	"build/log"
 	"kernel/net/server"
 	"kernel/schedule"
 
-	"svr/tool/log"
 	"svr/web"
 
 	"github.com/gorilla/mux"
@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	log.Set("bro", true)
+	log.Set("dist", "bro", true)
 
 	port := "9090"
 

@@ -1,10 +1,10 @@
 package web
 
 import (
+	"build/log"
 	"net/http"
 	"os"
 	"path/filepath"
-	"svr/tool/log"
 
 	"github.com/gorilla/mux"
 	"go.uber.org/zap"
