@@ -1,7 +1,6 @@
 # 專案( Stock )前端
 
-## project tree
-1. svr
+## Depend
 1. https://github.com/chaosnote/kernel
 1. https://github.com/chaosnote/build
 

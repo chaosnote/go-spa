@@ -1,9 +1,9 @@
 package main
 
 import (
-	"build/log"
-	"kernel/net/server"
-	"kernel/schedule"
+	"github.com/chaosnote/go-build/log"
+	"github.com/chaosnote/go-kernel/net/server"
+	"github.com/chaosnote/go-kernel/schedule"
 
 	"svr/web"
 

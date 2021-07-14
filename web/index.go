@@ -1,7 +1,7 @@
 package web
 
 import (
-	"build/log"
+	"github.com/chaosnote/go-build/log"
 	"net/http"
 	"os"
 	"path/filepath"

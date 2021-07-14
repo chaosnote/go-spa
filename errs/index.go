@@ -1,6 +1,6 @@
 package errs
 
-import "kernel/net/http/response"
+import "github.com/chaosnote/go-kernel/net/http/response"
 
 // 伺服器錯誤清單
 const (
